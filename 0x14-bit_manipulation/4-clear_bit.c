@@ -1,5 +1,3 @@
--clear_bit.c
-
 #include "main.h"
 
 /**
